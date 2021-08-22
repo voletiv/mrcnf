@@ -1,4 +1,4 @@
-# mrcnf
+# Multi-Resolution Continuous Normalizing Flows
 
 This repository contains code for [Multi-Resolution Continuous Normalizing Flows](https://arxiv.org/abs/2106.08462).
 
